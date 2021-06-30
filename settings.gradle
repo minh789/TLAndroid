@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "BroadCast_Receiver_Wifi"
